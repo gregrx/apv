@@ -1,2 +1,2 @@
 # av 
-**av** is a repo of my audio/video edit scripts for audacity, mpv, reaper, vlc and common ffmpeg scripts
+**av** is a repo of my scripts for audio/video/photo editors and common ffmpeg scripts
