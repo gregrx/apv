@@ -1,2 +1,2 @@
-# avp 
-**avp** is a repo of my scripts for audio/video/photo editors and common ffmpeg scripts
+# apv 
+**apv** is a repo of my scripts for audio/photo/video editors and common ffmpeg scripts
